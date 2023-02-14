@@ -1,0 +1,24 @@
+
+
+============================== 2023-02-14 11:13:14.153189 | 143e366c-a7e3-4d65-8b1e-d6f479a8d22b ==============================
+[0m11:13:14.153189 [info ] [MainThread]: Running with dbt=1.4.1
+[0m11:13:14.153965 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': '/Users/mauriciovaler/.dbt', 'send_anonymous_usage_stats': False, 'quiet': False, 'no_print': False, 'cache_selected_only': False, 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+[0m11:13:14.154073 [debug] [MainThread]: Tracking: do not track
+[0m11:14:13.367829 [debug] [MainThread]: Starter project path: /opt/homebrew/lib/python3.10/site-packages/dbt/include/starter_project
+[0m11:14:17.422828 [info ] [MainThread]: 
+Your new dbt project "sp_public_data" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m11:14:17.423342 [debug] [MainThread]: Flushing usage events
